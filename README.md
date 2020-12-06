@@ -1,2 +1,3 @@
 # analise-dados-eleitorais-SJC-2020
-Trabalho realizado pela FATEC SJC
+Trabalho realizado durante meu curso na FATEC SJC
+
