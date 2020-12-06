@@ -16,6 +16,7 @@ O trabalho utiliza com foco principal o Jupyter Notebook, mostrando a partir del
 # Foi utilizado como base Materiais Apresentados em aula e as seguintes referências:
 
 [Referencias] https://github.com/fmasanori/CursoPyLadiesSP
+              https://github.com/fmasanori?tab=repositories
 
 [Exemplos de utilização do Panda] https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
 
